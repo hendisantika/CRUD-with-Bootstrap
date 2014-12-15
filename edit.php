@@ -46,7 +46,7 @@ $tampil = mysql_fetch_array(mysql_query("SELECT * FROM siswa WHERE id_siswa = '$
 		</div>
 	</div>
 	<footer>
-		&copy; <a href="http://mafulprayogaarnandi.blogspot.com" target="_blank">Maful Prayoga Arnandi</a>
+		&copy; <a href="http://mafulprayogaarnandi.blogspot.com" target="_blank">Maful Prayoga Arnandi</a> | <h3><a href="http://bocahdesa.com/1njci5">Back to Tutorial</a></h3>
 	</footer>
 </div>
 
