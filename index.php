@@ -50,6 +50,9 @@ include 'config/koneksi.php';
 			</table>
 		</div>
 	</div>
+	<footer>
+		&copy; <a href="http://mafulprayogaarnandi.blogspot.com" target="_blank">Maful Prayoga Arnandi</a>
+	</footer>
 </div>
 
 <script src="js/bootstrap.min.js"></script>
