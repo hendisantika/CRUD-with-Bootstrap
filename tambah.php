@@ -15,7 +15,7 @@ include 'config/koneksi.php';
 <div class="container">
 	<div class="row">
 		<div class="col-md-8">
-			<h3>Tambah Data Siswa</h3><hr>
+			<h3>Tambah Data Siswa</h3><a href="index.php" class="btn btn-info">Lihat Data</a><hr>
 				<form role="form" action="" method="post">
 					<div class="form-group">
 					    <label>Nama Siswa</label>
