@@ -1,7 +1,7 @@
 <?php
 $server =  "localhost";
 $username = "root";
-$password = "sangdeveloper";
+$password = "";
 $database = "tutorial_crudbo";
 
 // Koneksi dan memilih database di server
